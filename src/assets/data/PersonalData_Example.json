@@ -1,0 +1,10 @@
+
+{
+	"name": "John Doe",
+	"phone": "(123) 456 - 7890",
+	"email": "email@email.com",
+	"linkedIn": "https://www.linkedin.com",
+	"github": "https://github.com",
+	"resume": "../Resume.pdf",
+	"about": "<p>Lorem ipsum donec id elit non mi porta gravida at eget metus.<p/> <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.<p/> <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p> <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>"
+}

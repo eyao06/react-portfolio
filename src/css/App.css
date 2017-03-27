@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Slab:400,700);
+@import url(https://fonts.googleapis.com/css?family=Maven+Pro);
+
+body {
+  font-family: 'Josefin Slab', serif;
+  margin: 0;
+  color: #fff;
+  padding: 0;
+}
+h1 {
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Josefin Slab', serif;
+  font-size: 66px;
+  margin-top: 10vh;
+  letter-spacing: 10px;
+}
+
+
+.wrapper {
+  display: flex;
+  min-height: 100vh;
+  min-width: 100vw;
+  padding: 0;
+  flex-direction: column;
+}
+
+.content {
+  padding-bottom:20px;   /* Height of the footer element */
+  padding-top:70px;
+  flex:1;
+}
+
+.footer {
+  width:100%;
+  height:auto;
+  position:absolute;
+  bottom:0;
+  left:0;
+}
+
+
+
+.btn-round-lg{
+border-radius: 22.5px;
+}
+
+
+
+.fade-enter {
+  opacity: 0.01;
+}
+
+.fade-enter.fade-enter-active {
+  opacity: 1;
+  transition: opacity 1000ms ease-in;
+}
+
+.fade-leave {
+  opacity: 0;
+}
+
+.fade-leave.fade-leave-active {
+  opacity: 0;
+  transition: opacity 10ms ease-out;
+}
+
+
+
+.shadow {
+    overflow:hidden;
+    box-shadow: 8px 8px 10px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

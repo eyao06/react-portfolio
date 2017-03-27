@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Slab:400,700);
+@import url(https://fonts.googleapis.com/css?family=Maven+Pro);
+
+$bodyBg: #3a3042;
+$underLine: #ff784f;
+
+.card {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.card {
+  margin-top: 30px;
+  box-sizing: border-box;
+  border-radius: 3px;
+  background-clip: padding-box;
+  background: #FFFF;
+}
+
+td {
+    padding: 10px;
+}

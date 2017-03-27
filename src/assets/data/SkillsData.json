@@ -1,0 +1,105 @@
+
+{	
+	"threeColChart": { "cols": "col-md-4", "xPos": 225, "yPos": 200},
+	"twoColChart": {"cols": "col-md-6 card", "xPos": 225, "yPos": 200},
+
+	"programmingSkills": 
+	[
+		{
+			"id": 0,
+			"name": "Development",
+			"style": { "radar": "#8884d8", "radarBorder": "#8884d8", "radarOpacity": 0.6 },
+			"data": 
+			[ 
+				{"name": "Java", 			"value": 70},
+				{"name": "C++", 			"value": 60},
+				{"name": "Python", 			"value": 50},
+				{"name": "Ruby", 			"value": 50},
+				{"name": "PHP", 			"value": 55}
+			],
+			"description": ""
+		},
+
+		{
+			"id": 1,
+			"name": "Web Development",
+			"style": { "radar": "#8884d8", "radarBorder": "#8884d8", "radarOpacity": 0.6 },
+			"data": 
+			[ 
+				{"name": "HTML", 			"value": 75},
+				{"name": "CSS", 			"value": 75},
+				{"name": "JavaScript", 		"value": 85},
+				{"name": "MySQL", 			"value": 30},
+				{"name": "Apache", 			"value": 30}
+			],
+			"description": ""
+		},
+
+		{
+			"id": 2,
+			"name": "Technology",
+			"style": { "radar": "#8884d8", "radarBorder":" #8884d8", "radarOpacity": 0.6 },
+			"data": 
+			[ 
+				{"name": "Bootstrap", 		"value": 85},
+				{"name": "React.js", 		"value": 75},
+				{"name": "JQuery", 	    	"value": 25},
+				{"name": "Angular.js", 		"value": 30},
+				{"name": "Node.js", 		"value": 30}
+			],
+			"description": ""
+		}
+
+	],
+
+	"tools": 
+	{
+		"title": "Tools",
+		"data": 
+		[
+			{"id": 0, "name": "Agile Methodology/Scrum", 	"value": 100 },
+			{"id": 1, "name": "Git/Github", 				"value": 85 },
+			{"id": 2, "name": "Android Studio",				"value": 75 },
+			{"id": 3, "name": "Unity", 						"value": 80 },
+			{"id": 4, "name": "Phaser", 					"value": 75 },
+			{"id": 5, "name": "Gimp", 						"value": 60 }
+		],
+		"description": ""
+	},
+
+	"personalSkills": 
+	{
+		"title": "Personal Skills",
+		"data": 
+		[
+			{"id": 0, "name": "Creative", 								 "value": 90 },
+			{"id": 1, "name": "Quick To Adapt", 						 "value": 80 },
+			{"id": 2, "name": "Always Wanting To Learn More",			 "value": 85 },
+			{"id": 3, "name": "Team Player", 							 "value": 93 },
+			{"id": 4, "name": "Proficient in a fast-paced environment",  "value": 70 }
+		],
+		"description": ""
+	},
+
+	"os": 
+	{
+		"title": "Operating Systems",
+		"data": 
+		[
+			{"id": 0, "name": "Windows", 	"value": 95 },
+			{"id": 1, "name": "Linux", 		"value": 80 },
+			{"id": 2, "name": "Unix",		"value": 70 },
+			{"id": 3, "name": "Android", 	"value": 80 },
+			{"id": 4, "name": "IOS", 		"value": 30 }
+		],
+		"description": ""
+	},
+
+	"hobbies": 
+	{
+		"name": "Hobbies",
+		"data": "Tennis, PC Building, Gaming, Drawing",
+		"description": ""
+	}
+}
+

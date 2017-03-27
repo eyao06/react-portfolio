@@ -1,0 +1,15 @@
+.navbar-nav {
+  float: none;
+  text-align: center;
+    overflow:hidden;
+    box-shadow: 8px 8px 10px 8px rgba(0, 0, 0, 0.2), 0 6px 17px 0 rgba(0, 0, 0, 0.19);
+}
+
+.navbar-nav Link {
+  float: none;
+  display: inline-block;
+}
+
+.btn-margin-right {
+    margin-right: 25px;
+}

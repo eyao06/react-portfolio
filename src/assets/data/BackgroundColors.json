@@ -1,0 +1,19 @@
+
+{
+	"home": "#3a3042",
+	"about": "#032429",
+	"skills": "#F77D40",
+	"projects": "#377D6A",
+	"header": {
+		"home": "#241E29",
+		"about": "#002B45",
+		"skills": "#134A46",
+		"projects": "#520014"
+	},
+	"footer": {
+		"home": "#241E29",
+		"about": "#002B45",
+		"skills": "#134A46",
+		"projects": "#520014"
+	}
+}
